@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Differentiator (3.0.0)
+  - Realm (1.1.0):
+    - Realm/Headers (= 1.1.0)
+  - Realm/Headers (1.1.0)
+  - RealmSwift (1.1.0):
+    - Realm (= 1.1.0)
+  - RxAlamofire (4.0.0):
+    - RxAlamofire/Core (= 4.0.0)
+  - RxAlamofire/Core (4.0.0):
+    - Alamofire (~> 4.5)
+    - RxSwift (~> 4.0)
+  - RxBlocking (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxRealm (0.1.8):
+    - RealmSwift (~> 1.0)
+    - RxSwift
+  - RxSwift (4.0.0)
+  - RxSwiftExt (3.0.0):
+    - RxSwiftExt/Core (= 3.0.0)
+  - RxSwiftExt/Core (3.0.0):
+    - RxSwift (~> 4.0)
+  - RxTest (4.0.0):
+    - RxSwift (~> 4.0)
+
+DEPENDENCIES:
+  - RxAlamofire
+  - RxBlocking (~> 4.0)
+  - RxCocoa (~> 4.0)
+  - RxDataSources
+  - RxRealm
+  - RxSwift (~> 4.0)
+  - RxSwiftExt
+  - RxTest (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Differentiator: 772c2e4e2093584a0501a72019a7cd19e1a72cc8
+  Realm: ceecf1a4540c4ce9efe196fe73fa9855bce05bd8
+  RealmSwift: 838058b2db95b12cb86bd0cf209df642c33fb60a
+  RxAlamofire: 6ea579ac53bf14cb4bc7049a3866e5a769989b1d
+  RxBlocking: 923c2c8106d80d7c2d6b276afd66ce3b10824836
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxDataSources: 5a5ad827b6ad91730bb4b3ed87739f28a7be3d84
+  RxRealm: e1620fd20f5dc0d14c10e92bcc6c2c70bfb03ebe
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  RxSwiftExt: b06c47dff66cd33ca7683bba1e74b0c5c8e3592e
+  RxTest: 0041e792cede35e53e4749f378d21482af0e9d12
+
+PODFILE CHECKSUM: fc63eb2588f41fe8a3831e4f6009c58b6bf24cf1
+
+COCOAPODS: 1.4.0.beta.1
